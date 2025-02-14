@@ -1,1 +1,10 @@
-.mypy_cache
+# Ignorar o cache do MyPy
+.mypy_cache/
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+
+# Ignorar arquivos temporários do sistema
+*.pyc
+__pycache__/
