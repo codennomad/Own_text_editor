@@ -1,10 +1,10 @@
 # Ignorar o cache do MyPy
 .mypy_cache/
 
-# Ignorar ambientes virtuais
-venv/
-.env/
+# Ignorar o ambiente virtual dentro de texteditor
+texteditor/venv/
+texteditor/.venv/
 
-# Ignorar arquivos temporários do sistema
+# Ignorar arquivos temporários do Python
 *.pyc
 __pycache__/
