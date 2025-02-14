@@ -25,7 +25,7 @@ A simple text editor built with Python and Tkinter.
 
 ## 📷 Screenshot
 
-
+![Image](https://github.com/user-attachments/assets/f4f72163-0f2e-49be-b4b6-dceb0f3a070b)
 
 ---
 
